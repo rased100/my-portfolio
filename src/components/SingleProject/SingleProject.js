@@ -2,7 +2,7 @@ import React from 'react';
 import '../Projects/Projects.css';
 
 const SingleProject = (props) => {
-    const { image_banner } = props.projectData;
+    const { name, image_banner, live, client, server } = props.projectData;
     return (
 
         // <div className="col__3">
@@ -13,10 +13,12 @@ const SingleProject = (props) => {
                 </div>
                 <div className="mask__effect"></div>
             </div>
-            <div className="project__meta absolute">
-                <h5 className="project__text">Development</h5>
-                <h4 className="project__text">Getting tickets to the big show</h4>
-                <a href="#" className="project__btn">View Details</a>
+            <div className=" project__meta absolute">
+                <h5 className="project__text">{name}</h5>
+                {/* <h5 className="w-75 project__text">{short_description}</h5> */}
+                <a href={live} target="_blank" className="project__btn">Live Website</a>
+                <a href={client} target="_blank" className="project__btn">Client Site Code</a>
+                <a href={server} target="_blank" className="project__btn">Servers Site Code</a>
             </div>
         </div>
         // </div>

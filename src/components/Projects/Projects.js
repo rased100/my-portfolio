@@ -15,12 +15,10 @@ const Projects = () => {
     return (
         <div className="project component__space" id="Projects">
             <div className="heading">
-                <h1 className="heading">My Latest Projects</h1>
-                <p className="heading p__color">
-                    There are many variations of passages of Lorem Ipsum available,
+                <h1 className="heading">My Latest Project</h1>
+                <p className="heading p__color">I have created some Basic JavaScript Projects,
                 </p>
-                <p className="heading p__color">
-                    but the majority have suffered alteration.
+                <p className="heading p__color">Those website made with ReactJs, React Router, MongoDb, JavaScript.
                 </p>
             </div>
             <div className="container">

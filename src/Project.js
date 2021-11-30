@@ -10,11 +10,9 @@ function Project() {
         <div className="project component__space" id="Projects">
             <div className="heading">
                 <h1 className="heading">My Latest Project</h1>
-                <p className="heading p__color">
-                    There are many variations of passages of Lorem Ipsum available,
+                <p className="heading p__color">I have created some Basic JavaScript Projects
                 </p>
-                <p className="heading p__color">
-                    but the majority have suffered alteration.
+                <p className="heading p__color">Those website made with React, React Router, Bootstrap, JavaScript, and Firebase Login Method.
                 </p>
             </div>
             <div className="container">

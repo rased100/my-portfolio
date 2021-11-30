@@ -9,7 +9,7 @@ function Contact() {
                     <div className="contact__box">
                         <div className="contact__meta">
                             <h1 className="hire__text">Hire Me.</h1>
-                            <p className="hire__text white">I am available for freelance work. Connect with me via phone:</p>
+                            <p className="hire__text white">I am available for web development work. Connect with me via phone:</p>
                             <p className="hire__text white"><strong>+8801716-738-111</strong> or email <strong>rased100@gmail.com</strong></p>
                         </div>
                         <div className="input__box">
