@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import SingleProject from '../SingleProject/SingleProject';
-import '../../Project.css';
+import './Projects.css';
 
 const Projects = () => {
     const [projectInfo, setProjectInfo] = useState([]);
@@ -15,7 +15,7 @@ const Projects = () => {
     return (
         <div className="project component__space" id="Projects">
             <div className="heading">
-                <h1 className="heading">My Latest Project</h1>
+                <h1 className="heading">My Latest Projects</h1>
                 <p className="heading p__color">
                     There are many variations of passages of Lorem Ipsum available,
                 </p>
@@ -24,13 +24,13 @@ const Projects = () => {
                 </p>
             </div>
             <div className="container">
-                {/* <div className="row"> */}
+                <div className="row">
 
-                {
-                    projectInfo.map(projectData => <SingleProject projectData={projectData}></SingleProject>)
-                }
+                    {
+                        projectInfo.map(projectData => <SingleProject projectData={projectData}></SingleProject>)
+                    }
 
-                {/* </div> */}
+                </div>
             </div>
         </div>
     );

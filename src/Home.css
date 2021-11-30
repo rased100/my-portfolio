@@ -8,7 +8,10 @@
 }
 li.nav__items{
     font-size: 18px;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
+}
+.pxy_nav{
+    padding-top: 15px;
 }
 .home__content{
     padding: 125px 0px;

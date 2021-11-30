@@ -13,11 +13,11 @@ function Home() {
   return (
     <div className="home" id="Home">
       <div className="home__bg">
-        <div className="header d__flex align__items__center pxy__30">
+        <div className="header d__flex align__items__center pxy_nav">
           {/* <div className="logo">
             <img src={logo} alt="" />
           </div> */}
-          <div className="navigation pxy__30">
+          <div className="navigation pxy_nav">
             <ul className="navbar d__flex">
               <a href="#Home">
                 <li className="nav__items mx__15">Home</li>
