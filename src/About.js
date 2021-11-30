@@ -15,16 +15,13 @@ function About() {
           <div className="col__2">
             <img src={aboutImg} alt="" className="about__img" />
           </div>
-          <div className="col__2  bg-secondary">
+          <div className="col__2">
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
                 I have created some Basic JavaScript Projects. I am comfortable with Html, CSS, Bootstrap, JavaScript, MUI, Mongo DB, React-JS and React Router with its Utilities and Packages. I completed my BSc in EEE. I have some working experience with JavaScript, React and React Router Unofficial Projects.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a target="_blank" href="https://doc-04-20-docs.googleusercontent.com/docs/securesc/1smc427lb3d0ricpghjmf24f5g7lsi7k/6nj91uc7aohaqgcuoht82t7ojao1ovou/1638242025000/01492306813066744517/01816493426018839436/1NTksCJOOiQqLEYPetOp8jW8Iyw3Nb5WO?e=download&authuser=0">
-                  <button className="about btn pointer">Download Cv</button>
-                </a>
                 <a href="#Contact">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
