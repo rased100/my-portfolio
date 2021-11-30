@@ -4,7 +4,7 @@
         "name": "Super Bike Collection",
         "short_description": "This website about racing bike. User can see detail of every bike by clicking one by one. In this website user can register with their Google account.",
         "details_description": "This website about Motorbikes. In this website user can register with email and password. Users can see there individual orders. User can buy there choice bikes.This website made with React, React Router, mui, Bootstrap, Javascript, Firebase, heroku.",
-        "image_banner": "../src/img/projects/bike-banner.jpg",
+        "image_banner": "https://i.ibb.co/Jy8p4h6/bike-banner.jpg",
         "image_1": "../src/img/projects/bike-1.jpg",
         "image_2": "../src/img/projects/bike-2.jpg",
         "image_3": "../src/img/projects/bike-3.jpg"
@@ -14,7 +14,7 @@
         "name": "CURRENT Delivery",
         "short_description": "This website about Product Delivery. We have different type service about Product Delivery. This website made with React, React Router, Bootstrap, JavaScript, and Firebase Login Method.",
         "details_description": "This website about Product Delivery. We have different type service about Product Delivery. In this website user can register with there google account. User can see detail of every service by clicking one by one. This website made with React, React Router, Bootstrap, Javascript, Firebase Login Method.",
-        "image_banner": "../src/img/projects/delivery-banner.jpg",
+        "image_banner": "https://i.ibb.co/LSXv6kf/delivery-banner.jpg",
         "image_1": "../src/img/projects/delivery-1.jpg",
         "image_2": "../src/img/projects/delivery-2.jpg",
         "image_3": "../src/img/projects/delivery-3.jpg"
@@ -24,7 +24,7 @@
         "name": "Galaxy Diagnostic Centre",
         "short_description": "This website about Diagnostic Centre. User can book a service by this website. After login user can go some Private Routes.",
         "details_description": "This website about Diagnostic Centre. We have different type of Machine for test. In this website user can register with there google account. User can see detail of every service by clicking one by one. This website made with React, React Router, Bootstrap, Javascript, Firebase Login Method.",
-        "image_banner": "../src/img/projects/diagnostic-banner.jpg",
+        "image_banner": "https://i.ibb.co/v4kYs47/diagnostic-banner.jpg",
         "image_1": "../src/img/projects/diagnostic-1.jpg",
         "image_2": "../src/img/projects/diagnostic-2.jpg",
         "image_3": "../src/img/projects/diagnostic-3.jpg"
